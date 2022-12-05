@@ -7,7 +7,7 @@
   - Telegram: @andreyShin06
 </p>
 
-<h3 align="left">:wrench: Skills and Tools:</h3>
+<h3 align="left">:hammer: Skills and tools:</h3>
 - Backend: PHP, basic Python<br>
 - Backend framework: Laravel<br>
 - Frontend: HTML, CSS, JavaScript<br>
