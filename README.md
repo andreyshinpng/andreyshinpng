@@ -12,4 +12,4 @@
 - Backend framework: Laravel<br>
 - Frontend: HTML, CSS, basic JavaScript<br>
 - Databases: MySQL, MariaDB, PostgreSQL<br>
-- Toolset: PhpStorm, XAMPP, VSCode
+- Toolset: PhpStorm, XAMPP, Postman
