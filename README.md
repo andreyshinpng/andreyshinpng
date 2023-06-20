@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">:hammer: Skills and tools:</h3>
-- Languages: PHP, JS
+- Languages: PHP, JS<br>
 - Frameworks: Laravel<br>
 - Databases: MySQL, PostgreSQL, Redis<br>
 - Tools: PhpStorm, Postman
