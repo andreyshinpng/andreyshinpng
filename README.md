@@ -1,13 +1,23 @@
-<h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">A backend developer from Kazakhstan</h3>
+<h1 align="left">Hi, there 👋</h1>
 
-<h3 align="left">:mailbox: Contacts:</h3>
-<p align="left">
-  - Email: andreyshinpng@yandex.kz<br>
-  - Telegram: @andreyShin06
-</p>
+###
 
-<h3 align="left">:hammer: Skills and tools:</h3>
-- Languages: PHP, JavaScript<br>
-- Frameworks: Laravel<br>
-- Databases: MySQL, PostgreSQL, Redis<br>
+<p align="left">My name is Andrey.<br>I'm a fullstack developer from Kazakhstan.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Developing since January 2023<br>📚 Learning new technologies</p>
+
+###
+
+<h2 align="left">I work with</h2>
+
+###
+
+<p align="left">- Php<br>- JavaScript<br>- TypeScript<br>-Laravel<br>-Vue 3</p>
+
+###
