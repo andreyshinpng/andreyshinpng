@@ -18,6 +18,6 @@
 
 ###
 
-<p align="left">- Php<br>- JavaScript<br>- TypeScript<br>-Laravel<br>-Vue 3</p>
+<p align="left">- Php 7.4/8.1<br>- JavaScript<br>- TypeScript<br>- Laravel<br>- Vue 3</p>
 
 ###
