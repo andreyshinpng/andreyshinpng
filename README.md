@@ -16,7 +16,7 @@ I'm 25 y.o Software Engineer from Kazakhstan.<br>
   <li>Spotify, after all 😂</li>
 </ul>
 
-<h3>Random facts:</h3>
+<h3>Random Facts:</h3>
 <ul>
   <li>Developing since December 2022</li>
   <li>My first programming language was C++</li>
