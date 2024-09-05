@@ -13,6 +13,7 @@ I'm 25 y.o Software Engineer from Kazakhstan.<br>
   <li>JetBrains IDEs: PHPStorm, WebStorm</li>
   <li>Docker</li>
   <li>Postman</li>
+  <li>Spotify, after all 😂</li>
 </ul>
 
 <h3>Random facts:</h3>
