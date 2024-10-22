@@ -3,9 +3,8 @@ I'm 25 y.o Software Engineer from Kazakhstan.<br>
 
 <h3>Skills:</h3>
 <ul>
-  <li>PHP 7.4/8.0+ (Laravel/Symfony)</li>
-  <li>JavaScript/TypeScript (JQuery/Vue3)</li>
-  <li>Relational Databases (MySQL/MariaDB)</li>
+  <li>PHP 7.4/8.0+ (Laravel)</li>
+  <li>JavaScript/TypeScript (Vue3)</li>
 </ul>
 
 <h3>Favorite Tools:</h3>
