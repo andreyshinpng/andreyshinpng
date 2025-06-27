@@ -9,6 +9,7 @@ I'm 26 y.o Software Engineer from Kazakhstan.<br>
 
 <h3>Favorite Tools:</h3>
 <ul>
+  <li>Cursor</li>
   <li>JetBrains IDEs</li>
   <li>Docker</li>
   <li>Postman</li>
