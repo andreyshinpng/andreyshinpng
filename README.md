@@ -1,5 +1,5 @@
 <h3>Hey, I'm Andrey 👋</h3>
-I'm 25 y.o Software Engineer from Kazakhstan.<br>
+I'm 26 y.o Software Engineer from Kazakhstan.<br>
 
 <h3>Skills:</h3>
 <ul>
