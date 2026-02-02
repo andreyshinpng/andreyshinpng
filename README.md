@@ -1,5 +1,6 @@
 <h3>Hey, I'm Andrey 👋</h3>
 I'm 26 y.o Software Engineer from Kazakhstan.<br>
+Developing since December 2022<br>
 
 <h3>Skills:</h3>
 <ul>
@@ -14,10 +15,4 @@ I'm 26 y.o Software Engineer from Kazakhstan.<br>
   <li>Docker</li>
   <li>Postman</li>
   <li>Spotify, after all 😂</li>
-</ul>
-
-<h3>Random Facts:</h3>
-<ul>
-  <li>Developing since December 2022</li>
-  <li>My first programming language was C++</li>
 </ul>
