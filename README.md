@@ -4,15 +4,11 @@ Developing since December 2022<br>
 
 <h3>Skills:</h3>
 <ul>
-  <li>PHP 7.4/8.0+ (Laravel)</li>
+  <li>PHP 7.4+ (Laravel)</li>
   <li>JavaScript/TypeScript (Vue3)</li>
 </ul>
 
-<h3>Favorite Tools:</h3>
+<h3>Pet projects:</h3>
 <ul>
-  <li>Cursor</li>
-  <li>JetBrains IDEs</li>
-  <li>Docker</li>
-  <li>Postman</li>
-  <li>Spotify, after all 😂</li>
+  <li>https://habitbox.space/</li>
 </ul>
